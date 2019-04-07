@@ -1,0 +1,71 @@
+{
+  "id": 1293215073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.08438,-51.95168,-60.08438,-51.95168",
+    "geom:latitude":-51.95168,
+    "geom:longitude":-60.08438,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fox Bay West Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831937,
+    "gn:latitude":-51.95168,
+    "gn:longitude":-60.08438,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fox Bay West Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "West Settlement",
+        "Fox Bay West Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831937
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"bd1c7e97ac2a1d032f4d3160a36d5984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1293215073,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293215073,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Fox Bay West Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.08438,
+    -51.95168,
+    -60.08438,
+    -51.95168
+],
+  "geometry": {"coordinates":[-60.08438,-51.95168],"type":"Point"}
+}

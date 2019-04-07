@@ -1,0 +1,67 @@
+{
+  "id": 1243564387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.16517,-51.6353,-58.16517,-51.6353",
+    "geom:latitude":-51.6353,
+    "geom:longitude":-58.16517,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Estancia House",
+    "gn:country_code":"FK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427042,
+    "gn:latitude":-51.6353,
+    "gn:longitude":-58.16517,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Estancia House",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427042
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"2bc3c86b793529be1f5b6a018eff542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1243564387,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243564387,
+    "wof:lastmodified":1536634155,
+    "wof:name":"Estancia House",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16517,
+    -51.6353,
+    -58.16517,
+    -51.6353
+],
+  "geometry": {"coordinates":[-58.16517,-51.6353],"type":"Point"}
+}

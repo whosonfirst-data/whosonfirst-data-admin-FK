@@ -1,0 +1,91 @@
+{
+  "id": 421182163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.6039,-51.31818,-59.6039,-51.31818",
+    "geom:latitude":-51.31818,
+    "geom:longitude":-59.6039,
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Pebble Island Settlement"
+    ],
+    "name:eng_x_preferred":[
+        "Pebble Island Settlement"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Calder\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Pebble Island Farm"
+    ],
+    "qs:gn_country":"FK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3426816,
+    "qs:gn_pop":0,
+    "qs:name":"Pebble Island Settlement",
+    "qs:name_adm0":"Falkland Islands",
+    "qs:name_adm1":"West Falkland",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":892039,
+    "qs:woe_adm0":23424814,
+    "qs:woe_id":379313,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426816,
+        "gp:id":379313,
+        "qs:id":892039,
+        "wd:id":"Q7158515",
+        "wk:page":"Pebble Island Settlement"
+    },
+    "wof:country":"FK",
+    "wof:created":1459009321,
+    "wof:geomhash":"18413663cf59f74bbe2f9fb9f5af6c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":421182163,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421182163,
+    "wof:lastmodified":1527726454,
+    "wof:name":"Pebble Island Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.6039,
+    -51.31818,
+    -59.6039,
+    -51.31818
+],
+  "geometry": {"coordinates":[-59.6039,-51.31818],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310320037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.11559,-51.49741,-60.11559,-51.49741",
+    "geom:latitude":-51.49741,
+    "geom:longitude":-60.11559,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hill Cove",
+    "gn:country_code":"FK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831908,
+    "gn:latitude":-51.49741,
+    "gn:longitude":-60.11559,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hill Cove",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831908
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"7c877c1db438079872d1b36c51ecec92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1310320037,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310320037,
+    "wof:lastmodified":1536686900,
+    "wof:name":"Hill Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.11559000000001,
+    -51.49741,
+    -60.11559000000001,
+    -51.49741
+],
+  "geometry": {"coordinates":[-60.11559000000001,-51.49741],"type":"Point"}
+}

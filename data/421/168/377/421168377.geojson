@@ -1,0 +1,123 @@
+{
+  "id": 421168377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.96714,-51.82591,-58.96714,-51.82591",
+    "geom:latitude":-51.82591,
+    "geom:longitude":-58.96714,
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u9d5d\u7da0"
+    ],
+    "name:dut_x_preferred":[
+        "Goose Green"
+    ],
+    "name:eng_x_preferred":[
+        "Goose Green"
+    ],
+    "name:fre_x_preferred":[
+        "Goose Green"
+    ],
+    "name:fry_x_preferred":[
+        "Goose Green"
+    ],
+    "name:ger_x_preferred":[
+        "Goose Green"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d6 \u05d2\u05e8\u05d9\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Goose Green"
+    ],
+    "name:ita_x_preferred":[
+        "Goose Green"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30fc\u30b9\u30fb\u30b0\u30ea\u30fc\u30f3"
+    ],
+    "name:nob_x_preferred":[
+        "Goose Green"
+    ],
+    "name:pol_x_preferred":[
+        "Goose Green"
+    ],
+    "name:por_x_preferred":[
+        "Goose Green"
+    ],
+    "name:spa_x_preferred":[
+        "Pradera del Ganso"
+    ],
+    "name:swe_x_preferred":[
+        "Goose Green"
+    ],
+    "name:unk_x_variant":[
+        "Goose Green"
+    ],
+    "qs:gn_country":"FK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3426996,
+    "qs:gn_pop":83,
+    "qs:name":"Goose Green Settlement",
+    "qs:name_adm0":"Falkland Islands",
+    "qs:name_adm1":"East Falkland",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":101,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1044590,
+    "qs:woe_adm0":23424814,
+    "qs:woe_id":379299,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426996,
+        "gp:id":379299,
+        "qs:id":1044590,
+        "wd:id":"Q1537762",
+        "wk:page":"Goose Green"
+    },
+    "wof:country":"FK",
+    "wof:created":1459008763,
+    "wof:geomhash":"edc279bfe24cad5bba3929e610f7d89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421168377,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421168377,
+    "wof:lastmodified":1514423752,
+    "wof:name":"Goose Green Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.96714,
+    -51.82591,
+    -58.96714,
+    -51.82591
+],
+  "geometry": {"coordinates":[-58.96714,-51.82591],"type":"Point"}
+}

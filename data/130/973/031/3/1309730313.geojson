@@ -1,0 +1,67 @@
+{
+  "id": 1309730313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25385,-51.85317,-61.25385,-51.85317",
+    "geom:latitude":-51.85317,
+    "geom:longitude":-61.25385,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beaver Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3965420,
+    "gn:latitude":-51.85317,
+    "gn:longitude":-61.25385,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Beaver Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3965420
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"c225c216e536214c502d84d89c84a8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1309730313,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309730313,
+    "wof:lastmodified":1537038263,
+    "wof:name":"Beaver Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25385,
+    -51.85317,
+    -61.25385,
+    -51.85317
+],
+  "geometry": {"coordinates":[-61.25385,-51.85317],"type":"Point"}
+}

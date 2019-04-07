@@ -1,0 +1,72 @@
+{
+  "id": 1310516355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.41657,-51.74147,-60.41657,-51.74147",
+    "geom:latitude":-51.74147,
+    "geom:longitude":-60.41657,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dunnose Head Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831968,
+    "gn:latitude":-51.74147,
+    "gn:longitude":-60.41657,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dunnose Head Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunnose Head",
+        "Dunnose Head Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831968,
+        "wk:page":"Dunnose_Head"
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"946701cc083e0dd3d1c339a56a367a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1310516355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310516355,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Dunnose Head Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.41656999999999,
+    -51.74147,
+    -60.41656999999999,
+    -51.74147
+],
+  "geometry": {"coordinates":[-60.41656999999999,-51.74147],"type":"Point"}
+}

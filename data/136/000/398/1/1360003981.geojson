@@ -1,0 +1,61 @@
+{
+  "id": 1360003981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.21667,-51.53333,-58.21667,-51.53333",
+    "geom:latitude":-51.53333,
+    "geom:longitude":-58.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Horseshoe Bay",
+    "gn:country_code":"FK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3426961,
+    "gn:latitude":-51.53333,
+    "gn:longitude":-58.21667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Horseshoe Bay",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426961
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"e09403d75c265e6ca93e47519fa1d5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360003981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360003981,
+    "wof:lastmodified":1537060007,
+    "wof:name":"Horseshoe Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.21666999999999,
+    -51.53333,
+    -58.21666999999999,
+    -51.53333
+],
+  "geometry": {"coordinates":[-58.21666999999999,-51.53333],"type":"Point"}
+}

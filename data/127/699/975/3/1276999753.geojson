@@ -1,0 +1,111 @@
+{
+  "id": 1276999753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.42355,-51.54571,-58.42355,-51.54571",
+    "geom:latitude":-51.54571,
+    "geom:longitude":-58.42355,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Teal Inlet Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3426674,
+    "gn:latitude":-51.54571,
+    "gn:longitude":-58.42355,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teal Inlet Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evelyn Station",
+        "Teal Inlet",
+        "Teal Inlet Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        136253055,
+        102191575,
+        102193527,
+        102191577,
+        102191581,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426674,
+        "wk:page":"Teal_Inlet"
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"986f39e34477064a1b6377d9b9e52752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        },
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1276999753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276999753,
+    "wof:lastmodified":1537622453,
+    "wof:name":"Teal Inlet Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.42355,
+    -51.54571,
+    -58.42355,
+    -51.54571
+],
+  "geometry": {"coordinates":[-58.42355,-51.54571],"type":"Point"}
+}

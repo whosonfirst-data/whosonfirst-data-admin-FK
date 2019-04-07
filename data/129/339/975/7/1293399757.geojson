@@ -1,0 +1,67 @@
+{
+  "id": 1293399757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.17563,-51.74753,-58.17563,-51.74753",
+    "geom:latitude":-51.74753,
+    "geom:longitude":-58.17563,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bluff Cove Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3473344,
+    "gn:latitude":-51.74753,
+    "gn:longitude":-58.17563,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bluff Cove Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3473344
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"3ac3ef5c60c97807d726ea4d98940502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1293399757,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293399757,
+    "wof:lastmodified":1536913836,
+    "wof:name":"Bluff Cove Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.17563000000001,
+    -51.74753,
+    -58.17563000000001,
+    -51.74753
+],
+  "geometry": {"coordinates":[-58.17563000000001,-51.74753],"type":"Point"}
+}

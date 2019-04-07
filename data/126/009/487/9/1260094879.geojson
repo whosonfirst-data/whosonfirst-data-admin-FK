@@ -1,0 +1,72 @@
+{
+  "id": 1260094879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.96667,-51.53333,-58.96667,-51.53333",
+    "geom:latitude":-51.53333,
+    "geom:longitude":-58.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Camp Verde",
+    "gn:cc2":"FK",
+    "gn:country_code":"FK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3427129,
+    "gn:latitude":-51.53333,
+    "gn:longitude":-58.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Camp Verde",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campo Verde",
+        "Camp Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3427129
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"aa28263b2bc625596d062c514bc59b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1260094879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260094879,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Camp Verde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.96666999999999,
+    -51.53333,
+    -58.96666999999999,
+    -51.53333
+],
+  "geometry": {"coordinates":[-58.96666999999999,-51.53333],"type":"Point"}
+}

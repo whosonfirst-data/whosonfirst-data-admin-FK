@@ -1,0 +1,67 @@
+{
+  "id": 1209433035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.37199,-51.43409,-58.37199,-51.43409",
+    "geom:latitude":-51.43409,
+    "geom:longitude":-58.37199,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Salvador Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3426731,
+    "gn:latitude":-51.43409,
+    "gn:longitude":-58.37199,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salvador Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salvador Settlement Corral",
+        "Salvador",
+        "Salvador Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3426731,
+        "wk:page":"Salvador_Settlement"
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"f4194b83f51ec052783151df4f93a6b8",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632211,
+            "locality_id":1209433035
+        }
+    ],
+    "wof:id":1209433035,
+    "wof:lastmodified":1537622453,
+    "wof:name":"Salvador Settlement",
+    "wof:parent_id":85632211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.37199,
+    -51.43409000000001,
+    -58.37199,
+    -51.43409000000001
+],
+  "geometry": {"coordinates":[-58.37199,-51.43409000000001],"type":"Point"}
+}

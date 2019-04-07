@@ -1,0 +1,72 @@
+{
+  "id": 1327249489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.38558,-51.54836,-60.38558,-51.54836",
+    "geom:latitude":-51.54836,
+    "geom:longitude":-60.38558,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Roy Cove Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831800,
+    "gn:latitude":-51.54836,
+    "gn:longitude":-60.38558,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Roy Cove Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roy Cove",
+        "Roy Cove Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831800,
+        "wk:page":"Roy_Cove"
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"970dcaf32913fb0beb664bf7890b81d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1327249489,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327249489,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Roy Cove Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.38558,
+    -51.54836,
+    -60.38558,
+    -51.54836
+],
+  "geometry": {"coordinates":[-60.38558,-51.54836],"type":"Point"}
+}

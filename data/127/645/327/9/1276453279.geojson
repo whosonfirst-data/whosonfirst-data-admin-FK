@@ -1,0 +1,72 @@
+{
+  "id": 1276453279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.07954,-51.71108,-60.07954,-51.71108",
+    "geom:latitude":-51.71108,
+    "geom:longitude":-60.07954,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chartres",
+    "gn:country_code":"FK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831995,
+    "gn:latitude":-51.71108,
+    "gn:longitude":-60.07954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chartres",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chartres Settlement",
+        "Chartres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831995,
+        "wk:page":"Chartres%2C_Falkland_Islands"
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"f3893a75f06f2ae37b8cef9012f1bc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1276453279,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276453279,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Chartres",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.07954,
+    -51.71108,
+    -60.07954,
+    -51.71108
+],
+  "geometry": {"coordinates":[-60.07954,-51.71108],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209433025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.45588,-51.82968,-60.45588,-51.82968",
+    "geom:latitude":-51.82968,
+    "geom:longitude":-60.45588,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Spring Point Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831765,
+    "gn:latitude":-51.82968,
+    "gn:longitude":-60.45588,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Spring Point Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spring Point",
+        "Spring Point Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831765
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"4538714fd4c9b50bae4cfd3572c7150e",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632211,
+            "locality_id":1209433025
+        }
+    ],
+    "wof:id":1209433025,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Spring Point Settlement",
+    "wof:parent_id":85632211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.45588000000001,
+    -51.82968,
+    -60.45588000000001,
+    -51.82968
+],
+  "geometry": {"coordinates":[-60.45588000000001,-51.82968],"type":"Point"}
+}

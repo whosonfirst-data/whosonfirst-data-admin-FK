@@ -1,0 +1,72 @@
+{
+  "id": 1242988883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.06929,-51.95656,-60.06929,-51.95656",
+    "geom:latitude":-51.95656,
+    "geom:longitude":-60.06929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fox Bay East Settlement",
+    "gn:country_code":"FK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831938,
+    "gn:latitude":-51.95656,
+    "gn:longitude":-60.06929,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fox Bay East Settlement",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Stanley",
+    "iso:country":"FK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "East Settlement",
+        "Bahia Fox",
+        "Fox Bay East Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632211,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831938
+    },
+    "wof:country":"FK",
+    "wof:geomhash":"15f61cc582a29ffe6ae4df4c5e76048b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1242988883,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242988883,
+    "wof:lastmodified":1537622454,
+    "wof:name":"Fox Bay East Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.06929,
+    -51.95656,
+    -60.06929,
+    -51.95656
+],
+  "geometry": {"coordinates":[-60.06929,-51.95656],"type":"Point"}
+}
