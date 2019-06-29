@@ -20,7 +20,7 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":18.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Falklandy"
     ],
     "name:dan_x_colloquial":[
@@ -112,7 +112,7 @@
         "Ilhas Falkland",
         "Ilhas Malvinas (Falkland)"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insulele Falkland"
     ],
     "name:spa_x_preferred":[
@@ -270,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1536616805,
+    "wof:lastmodified":1561830562,
     "wof:name":"Falkland Islands",
     "wof:parent_id":85632211,
     "wof:placetype":"region",

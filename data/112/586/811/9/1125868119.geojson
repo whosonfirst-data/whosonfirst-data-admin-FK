@@ -22,16 +22,13 @@
     "name:cat_x_preferred":[
         "Port Howard"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Port Howard"
     ],
     "name:eng_x_preferred":[
         "Port Howard"
     ],
-    "name:fre_x_preferred":[
-        "Port Howard"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Port Howard"
     ],
     "name:heb_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30fb\u30cf\u30ef\u30fc\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Port Howard"
     ],
     "name:nob_x_preferred":[
         "Port Howard"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125868119,
-    "wof:lastmodified":1514423752,
+    "wof:lastmodified":1561830563,
     "wof:name":"Port Howard",
     "wof:parent_id":85681209,
     "wof:placetype":"locality",

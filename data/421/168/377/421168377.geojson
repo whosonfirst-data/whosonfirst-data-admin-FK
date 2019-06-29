@@ -13,22 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u9d5d\u7da0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Goose Green"
     ],
     "name:eng_x_preferred":[
         "Goose Green"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Goose Green"
     ],
     "name:fry_x_preferred":[
-        "Goose Green"
-    ],
-    "name:ger_x_preferred":[
         "Goose Green"
     ],
     "name:heb_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30fc\u30b9\u30fb\u30b0\u30ea\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Goose Green"
     ],
     "name:nob_x_preferred":[
         "Goose Green"
@@ -60,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Goose Green"
+    ],
+    "name:zho_x_preferred":[
+        "\u9d5d\u7da0"
     ],
     "qs:gn_country":"FK",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421168377,
-    "wof:lastmodified":1514423752,
+    "wof:lastmodified":1561830563,
     "wof:name":"Goose Green Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
