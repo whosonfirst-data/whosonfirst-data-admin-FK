@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Pebble Island Settlement"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Pebble Island Settlement"
     ],
     "name:spa_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421182163,
-    "wof:lastmodified":1527726454,
+    "wof:lastmodified":1561830563,
     "wof:name":"Pebble Island Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
