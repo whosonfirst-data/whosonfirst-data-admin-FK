@@ -25,6 +25,9 @@
     "iso:country":"FK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arroyo Walker"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1277089093,
-    "wof:lastmodified":1537562822,
+    "wof:lastmodified":1564120152,
     "wof:name":"Walker Creek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
