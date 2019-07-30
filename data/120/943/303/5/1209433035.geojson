@@ -25,6 +25,9 @@
     "iso:country":"FK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Salvador"
+    ],
     "name:und_x_variant":[
         "Salvador Settlement Corral",
         "Salvador",
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209433035,
-    "wof:lastmodified":1537622453,
+    "wof:lastmodified":1564120154,
     "wof:name":"Salvador Settlement",
     "wof:parent_id":85632211,
     "wof:placetype":"locality",
