@@ -10,10 +10,14 @@
     "geom:latitude":-51.700011,
     "geom:longitude":-57.849968,
     "iso:country":"FK",
+    "lbl:bbox":"-57.8699678972,-51.7200109673,-57.8299678972,-51.6800109673",
     "lbl:latitude":-51.700011,
     "lbl:longitude":-57.849968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Stanley"
     ],
@@ -359,7 +363,7 @@
         }
     ],
     "wof:id":1141909409,
-    "wof:lastmodified":1563289267,
+    "wof:lastmodified":1566596132,
     "wof:name":"Stanley",
     "wof:parent_id":85681209,
     "wof:placetype":"locality",
