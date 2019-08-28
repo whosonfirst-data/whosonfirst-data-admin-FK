@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Stanley",
     "iso:country":"FK",
+    "lbl:bbox":"-58.44355,-51.56571,-58.40355,-51.52571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Teal Inlet"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Evelyn Station",
-        "Teal Inlet",
         "Teal Inlet Settlement"
     ],
     "src:geom":"geonames",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1276999753,
-    "wof:lastmodified":1564120154,
+    "wof:lastmodified":1566596129,
     "wof:name":"Teal Inlet Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

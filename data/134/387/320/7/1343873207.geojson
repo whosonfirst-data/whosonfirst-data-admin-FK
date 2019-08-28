@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Stanley",
     "iso:country":"FK",
+    "lbl:bbox":"-59.38763,-52.14373,-59.34763,-52.10373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "North Arm"
     ],
@@ -32,7 +36,6 @@
         "Brazo Norte"
     ],
     "name:und_x_variant":[
-        "North Arm",
         "North Arm Settlement"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343873207,
-    "wof:lastmodified":1564120151,
+    "wof:lastmodified":1566596127,
     "wof:name":"North Arm Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
