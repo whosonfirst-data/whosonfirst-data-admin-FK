@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-57.8499678972,-51.7000109673,-57.8499678972,-51.7000109673",
+    "geom:bbox":"-57.849968,-51.700011,-57.849968,-51.700011",
     "geom:latitude":-51.700011,
     "geom:longitude":-57.849968,
     "iso:country":"FK",
@@ -101,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05e0\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0948\u0928\u0932\u0947"
     ],
     "name:hrv_x_preferred":[
         "Stanley"
@@ -351,7 +354,7 @@
     },
     "wof:country":"FK",
     "wof:created":1499131075,
-    "wof:geomhash":"c391c98f1e4147d28da1a37b9db17687",
+    "wof:geomhash":"2b4fb9b4572858b0b05c31be1036f34a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -363,7 +366,7 @@
         }
     ],
     "wof:id":1141909409,
-    "wof:lastmodified":1566596132,
+    "wof:lastmodified":1636494971,
     "wof:name":"Stanley",
     "wof:parent_id":85681209,
     "wof:placetype":"locality",
@@ -373,10 +376,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -57.84996789715382,
-    -51.70001096731283,
-    -57.84996789715382,
-    -51.70001096731283
+    -57.849968,
+    -51.700011,
+    -57.849968,
+    -51.700011
 ],
-  "geometry": {"coordinates":[-57.84996789715382,-51.70001096731283],"type":"Point"}
+  "geometry": {"coordinates":[-57.849968,-51.700011],"type":"Point"}
 }
