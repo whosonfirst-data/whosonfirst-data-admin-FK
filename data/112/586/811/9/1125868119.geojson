@@ -43,6 +43,9 @@
     "name:hrv_x_preferred":[
         "Port Howard"
     ],
+    "name:ita_x_preferred":[
+        "Port Howard"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30fb\u30cf\u30ef\u30fc\u30c9"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125868119,
-    "wof:lastmodified":1566596131,
+    "wof:lastmodified":1690893287,
     "wof:name":"Port Howard",
     "wof:parent_id":85681209,
     "wof:placetype":"locality",
